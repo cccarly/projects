@@ -12,3 +12,7 @@
 
 - identify underlying pattarn based on combination of products, transactions
 - identify what is the key variable associated with target variable (if target variable exists)
+
+### 04 KNN method of recommender system
+
+- identify similar users who is likely to use new fin-tech services
