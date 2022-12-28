@@ -1,5 +1,9 @@
 # projects
 
+### code_summary folder
+- code samples
+- code cheatsheet for python built-in functions
+
 ### 01 Yelp API
 
 - using developer mode of Yelp token and fetch data from Yelp
