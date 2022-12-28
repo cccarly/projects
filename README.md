@@ -5,7 +5,7 @@
 - code samples
 - code cheatsheet for python built-in functions
 - TOC
--  | File                  | Contents                                                |
+  | File                  | Contents                                                |
   | ----------------------- | --------------------------------------------------------- |
   | dict-cheatsheet.ipynb | python dictionary use cases and frequently used methods |
   |                       |                                                         |
