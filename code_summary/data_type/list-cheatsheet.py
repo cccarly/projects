@@ -30,6 +30,10 @@ print(mylist2)
 ## index - return the position of the first occurrence of value x in the list
 print(mylist2.index('banana'))
 
+## count(x) - count number of items of certain element
+
+print('-----count()-----\n',mylist2.count('banana'))
+
 ############# inserting #############
 ## insert(i,x) - inserts element x at position i in the list
 mylist2.insert(5,"insert")
