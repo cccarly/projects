@@ -2,6 +2,7 @@
 ## mutable will have remove, pop, append method 
 ## sorted and slices request new list
 ##[::-1] of reversing request new list
+## accessing request new list
 
 ### reverse
 
