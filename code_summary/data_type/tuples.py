@@ -1,5 +1,5 @@
 ### ordered & immutable, allows duplicate elements
-### a collection of objects
+### a collection of objects (any types, list, dict,string)
 ###In Python tuples are written with round brackets and comma separated values.
 
 my_tuple = ("Max", 28, "New York")
@@ -18,3 +18,4 @@ my_tuple2 = ("Max")
 print('----type-----\n',type(my_tuple2))
 
 #### accessing 
+print('----accessing-----\n',my_tuple[0])
