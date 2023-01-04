@@ -1,6 +1,7 @@
 ### ordered & immutable, allows duplicate elements
 ### a collection of objects (any types, list, dict,string)
-### insert, change is unable 
+### insert, change,add,remove is unable 
+### only concatenate works
 ###In Python tuples are written with round brackets and comma separated values.
 ### good for large data
 
