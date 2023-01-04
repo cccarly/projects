@@ -1,6 +1,8 @@
 ### ordered & immutable, allows duplicate elements
 ### a collection of objects (any types, list, dict,string)
+### insert, change is unable 
 ###In Python tuples are written with round brackets and comma separated values.
+### good for large data
 
 my_tuple = ("Max", 28, "New York")
 
@@ -122,3 +124,7 @@ import timeit
 print(timeit.timeit(stmt="[0, 1, 2, 3, 4, 5]", number=1000000))
 print(timeit.timeit(stmt="(0, 1, 2, 3, 4, 5)", number=1000000))
 
+x = (1,2,3,100,4)
+print(type(x))
+### sorted tuple will turn it to list
+print(type(sorted(x)))
