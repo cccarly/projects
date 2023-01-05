@@ -138,3 +138,15 @@ print('-----list comprehension with condition-----\n' ,special_squares)
 coords = [ (x,y) for x in range(5) for y in range(3) ]
 
 print('-----list comprehension with nested loop-----\n' ,coords)
+
+### list check
+
+if 'banana' in mylist:
+  print('---value existing test ---\n','yes')
+
+sample_list = []
+
+if sample_list:
+  print('list has value')
+else:
+  print('list is empty')

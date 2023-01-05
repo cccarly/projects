@@ -83,12 +83,14 @@ a = ','.join(my_list) # the given string is the separator, e.g. ' ' between each
 print('----join()----\n',a)
 
 ## format 
-
+'''
 ### .format() with {}
 ### "%s %d %f %.2f" % val
 ### f-strings
-
-
+'''
+'''
+## effciency tips
 # since a string is immutable, adding strings with +,  or += always 
 # creates a new string, and therefore is expensive for multiple operations
-# --> join method is much faster
+# --> join method is much faster '''
+
